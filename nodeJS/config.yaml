@@ -1,0 +1,10 @@
+
+# NodeJS in docker
+redis:
+  url: 'redis://node-redis-server:6379'
+  db: 0
+
+# local
+# redis:
+#   url: 'redis://localhost:6379'
+#   db: 0
